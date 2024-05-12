@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    color: black;
+}
+.container{
+    border: 2px solid white;
+    text-align: center;
+    justify-content:center;
+}
+.card{
+    margin: 0px 20px;
+    width: 275px;
+    border:1px solid rgb(227, 38, 151) ;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+
+}
+.card-style{
+
+    bottom: 0px;
+    position:relative;
+    text-align: center;
+}
+.a1{
+    position:absolute;
+    left: 80px;
+    bottom: 0px;
+    color: white;
+
+}
+button{
+    border:1px solid rgb(227, 38, 151) ;
+    background-color: rgb(227, 38, 151);
+    color: white;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+}
+img {
+    border-bottom: 4px solid rgb(227, 38, 151);
+}
+.title {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-right: 10px;
+}
